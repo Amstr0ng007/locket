@@ -1,0 +1,12 @@
+body{
+    background-image: url(picture/background.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}
+#nah{
+    height: 150px;
+    position: relative;
+    left:790px;
+    top:420px;
+}
